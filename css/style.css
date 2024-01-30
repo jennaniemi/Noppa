@@ -1,0 +1,11 @@
+#dice img {
+    height: auto;
+    width: 200px;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
